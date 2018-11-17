@@ -1,0 +1,18 @@
+body {
+	background-color: #141414;
+	padding-top: 70px;
+	font-family: Poppins;
+}
+
+#LandingLogo {
+	text-align: center;
+	padding-top: 5%;
+	padding-left: 8%;
+	padding-right: 8%;
+}
+
+
+/*.btn:active {
+  outline-color: white;
+}
+*/
